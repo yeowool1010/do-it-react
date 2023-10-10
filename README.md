@@ -36,7 +36,6 @@
 <img src="https://img.shields.io/badge/nextjs-181717?style=for-the-badge&logo=nextjs&logoColor=black"> 
 <!-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-DB7093?style=for-the-badge&logo=TailwindCSS&logoColor=white)  -->
 <!-- ![Recoil](https://img.shields.io/badge/recoil-%23593d88.svg?style=for-the-badge&logo=recoil&logoColor=white) -->
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 <!-- <img src="https://img.shields.io/badge/reactquery-61DAFB?style=for-the-badge&logo=reactquery&logoColor=black"> -->
 
