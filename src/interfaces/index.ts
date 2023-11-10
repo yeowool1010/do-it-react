@@ -8,3 +8,17 @@ export type User = {
   id: number
   name: string
 }
+
+export type MovieInfo = {
+  id: number
+  url: string
+  imdb_code: string
+  title: string
+  title_english: string
+  title_long: string
+  slug: string
+  year: number
+  rating: number
+  runtime: number
+  genres: string[]
+}
